@@ -136,7 +136,6 @@ for m in filtered_list:
 
 
 
-#don't filter out unsuitable times; instead, have an attribute that gets set to suitable or not
 #in shiny (or some other Python library), find a way to create a graphical grid with on column per day, and one row per time window
 #have the weather for each time window displayed inside its box
 #graphically indicate which times are suitable (e.g. color coding and/or pickleball symbol)
