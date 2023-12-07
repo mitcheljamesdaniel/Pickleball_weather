@@ -10,10 +10,6 @@ Instructions
 
 <a href="https://shinylive.io/py/app/#gist=6f1d47448c29bc115028aef014233468"> Try out the app here. </a>
 
-OR
-
-<a href="https://shinylive.io/py/editor/#gist=6f1d47448c29bc115028aef014233468"> Access the editor here</a>, which allows you to fiddle with the underlying code and see the effect of the app.
-
 Type in your city name and select your state (US locations only), then click the 'Generate Calendar' button see the pickleball forecast.
 
 You can customize the temperature range, chance or precipitation, and max wind speed you enjoy playing in. The forecast will automatically update to reflect these changes.
